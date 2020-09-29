@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/nguyenvanphi.github.io/static/js/main.7e140a4e.chunk.js",
-    "main.js.map": "/nguyenvanphi.github.io/static/js/main.7e140a4e.chunk.js.map",
-    "runtime-main.js": "/nguyenvanphi.github.io/static/js/runtime-main.9d8fc697.js",
-    "runtime-main.js.map": "/nguyenvanphi.github.io/static/js/runtime-main.9d8fc697.js.map",
-    "static/js/2.eee490c0.chunk.js": "/nguyenvanphi.github.io/static/js/2.eee490c0.chunk.js",
-    "static/js/2.eee490c0.chunk.js.map": "/nguyenvanphi.github.io/static/js/2.eee490c0.chunk.js.map",
-    "index.html": "/nguyenvanphi.github.io/index.html",
-    "precache-manifest.f1aefed6e3389efe13ab1a16346d4e8b.js": "/nguyenvanphi.github.io/precache-manifest.f1aefed6e3389efe13ab1a16346d4e8b.js",
-    "service-worker.js": "/nguyenvanphi.github.io/service-worker.js",
-    "static/js/2.eee490c0.chunk.js.LICENSE.txt": "/nguyenvanphi.github.io/static/js/2.eee490c0.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.7e140a4e.chunk.js",
+    "main.js.map": "/static/js/main.7e140a4e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2cb1dc1d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2cb1dc1d.js.map",
+    "static/js/2.eee490c0.chunk.js": "/static/js/2.eee490c0.chunk.js",
+    "static/js/2.eee490c0.chunk.js.map": "/static/js/2.eee490c0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7affc4ffca090c4b7663f017c374f4b4.js": "/precache-manifest.7affc4ffca090c4b7663f017c374f4b4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.eee490c0.chunk.js.LICENSE.txt": "/static/js/2.eee490c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d8fc697.js",
+    "static/js/runtime-main.2cb1dc1d.js",
     "static/js/2.eee490c0.chunk.js",
     "static/js/main.7e140a4e.chunk.js"
   ]
